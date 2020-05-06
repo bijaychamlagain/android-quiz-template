@@ -1,7 +1,7 @@
 android-quiz-template
 =====================
 
-# Introduction
+# Introduction::
 
 An android library project to use for different types of multiple-answer quiz applications. 
 In particular the templates offers 2 kind of quizes, or game modes:
